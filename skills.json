@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-23",
+  "skills": [
+    {
+      "name": "write-architecture-roadmap",
+      "version": "1.0.0",
+      "path": "skills/write-architecture-roadmap",
+      "description": "Create a technical architecture design document and a tightly coupled, executable development roadmap.",
+      "compatibility": [
+        "agent-skills",
+        "codex",
+        "claude-code",
+        "cursor"
+      ]
+    }
+  ]
+}
